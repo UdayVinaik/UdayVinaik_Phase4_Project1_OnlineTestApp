@@ -1,0 +1,22 @@
+{
+    "Question_1": {
+        "question": "Java is short for JavaScript",
+        "answers": ["true", "false"]
+    },
+    "Question_2": {
+        "question": "How do you insert COMMENTS in Java code?",
+        "answers": ["# This is comment", "/* This is comment", "// This is comment"]
+    },
+    "Question_3": {
+        "question": "Which data type is used to create a variable that should store text?",
+        "answers": ["string", "String", "Txt", "myString"]
+    },
+    "Question_4": {
+        "question": "How do you create a variable with the numeric value 5?",
+        "answer": ["int x = 5", "float x = 5", "num x = 5", "x = 5"]
+    },
+    "Question_5": {
+        "question": "Which method can be used to find the length of a string?",
+        "answers": ["len()", "getLength()", "getSize()", "length()"]
+    }
+}
